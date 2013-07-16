@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "bio-raxml"
   gem.homepage = "http://github.com/fizquierdo/bioruby-raxml"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Ruby wrapper to run standard-RAxML for Maximum Likelihood tree inference}
+  gem.description = %Q{Just a test}
   gem.email = "fer.izquierdo@gmail.com"
   gem.authors = ["Fernando Izquierdo"]
   # dependencies defined in Gemfile
